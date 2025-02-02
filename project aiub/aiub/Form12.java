@@ -96,8 +96,8 @@ public class Form12 extends JFrame implements ActionListener {
 
     public static void main(String[] args) {
         
-        String firstName = "John";
-        String lastName = "Doe";
+        String firstName = "Susmoy";
+        String lastName = "Sarker";
         String phone = "1234567890";
         String address = "123 Main St";
         String skillTrade = "Guitar Lesson";
