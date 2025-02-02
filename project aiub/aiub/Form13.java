@@ -111,6 +111,6 @@ public class Form13 extends JFrame implements ActionListener {
 
     public static void main(String[] args) {
         
-        new Form13("John", "Doe", "1234567890", "123 Main St", "Guitarist", 5000);
+        new Form13("Susmoy", "Sarker", "1234567890", "123 Main St", "Guitarist", 5000);
     }
 }
