@@ -90,6 +90,6 @@ public class Form11 extends JFrame implements ActionListener {
 
     public static void main(String[] args) {
         
-        new Form11("John", "Doe", "1234567890", "123 Main St", "Guitar Lesson", "Mobile Banking", 1000);
+        new Form11("Susmoy", "Sarker", "1234567890", "123 Main St", "Guitar Lesson", "Mobile Banking", 1000);
     }
 }
